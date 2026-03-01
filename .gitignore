@@ -80,6 +80,8 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
+
+# Build output
 dist
 
 # Gatsby files
@@ -137,3 +139,17 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Azure Functions
+local.settings.json
+__blobstorage__/
+__queuestorage__/
+__azurite_db*__.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

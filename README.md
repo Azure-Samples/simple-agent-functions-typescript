@@ -2,6 +2,8 @@
 
 A simple AI agent built with the GitHub Copilot SDK, running as an Azure Function.
 
+> Looking for [Python](https://github.com/Azure-Samples/simple-agent-functions-python) or [C#](https://github.com/Azure-Samples/simple-agent-functions-dotnet)?
+
 ## Prerequisites
 
 - [Node.js 22+](https://nodejs.org/)
